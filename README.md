@@ -1,2 +1,2 @@
 # git-basics
-Staring from square one with The Odin Project!
+Starting from square one with The Odin Project!
