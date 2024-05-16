@@ -1,2 +1,2 @@
 # git-basics
-Hello World!
+Staring from square one with The Odin Project!

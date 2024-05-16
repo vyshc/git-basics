@@ -1,1 +1,1 @@
-Staring from square one with The Odin Project!
+Hello World!
